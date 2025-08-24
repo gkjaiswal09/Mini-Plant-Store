@@ -55,5 +55,3 @@ mini-plant-store/
 - `GET /plants/search?q=...` — Search plants
 - `POST /plants` — Add a new plant
 
-## License
-MIT
