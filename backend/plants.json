@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Money Plant",
+    "price": 200,
+    "categories": [
+      "Indoor",
+      "Home Decor"
+    ],
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "price": 300,
+    "categories": [
+      "Indoor",
+      "Air Purifying"
+    ],
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera",
+    "price": 150,
+    "categories": [
+      "Succulent",
+      "Medicinal"
+    ],
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Tulsi",
+    "price": 100,
+    "categories": [
+      "Outdoor",
+      "Medicinal"
+    ],
+    "available": false
+  },
+  {
+    "id": 5,
+    "name": "Areca Palm",
+    "price": 400,
+    "categories": [
+      "Indoor",
+      "Air Purifying"
+    ],
+    "available": true
+  }
+]
